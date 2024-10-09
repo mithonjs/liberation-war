@@ -1,0 +1,12 @@
+.gallery-img{
+    overflow: hidden;
+}
+
+.gallery-img img{
+    cursor: pointer;
+    transition: 1s linear;
+}
+
+.gallery-img img:hover{
+    transform: scale(1.5);
+}
